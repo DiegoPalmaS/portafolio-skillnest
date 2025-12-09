@@ -39,7 +39,7 @@
 > Sitio web responsivo y moderno para mostrar mis proyectos y habilidades
 - **Tecnologías:** HTML5, CSS3, Bootstrap 5, JavaScript
 - **Características:** Diseño responsive, navegación suave, optimizado para SEO
-- 🔗 [Ver demo](https://tuportafolio.com) | [Código fuente](#)
+- 🔗 [Ver demo](https://diegopalmas.github.io/portafolio-skillnest/) | [Código fuente](#)
 
 
 ## 📚 Formación
