@@ -34,26 +34,13 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 💼 Proyectos Destacados
 
-### 🎓 Plataforma Educativa Interactiva
-> Aplicación web colaborativa desarrollada con el stack MERN
-- **Tecnologías:** MongoDB, Express.js, React, Node.js
-- **Metodología:** Scrum
-- **Características:** Sistema de autenticación, gestión de usuarios, contenido dinámico
-- 🔗 [Ver proyecto](#) | [Código fuente](#)
-
-### 🌐 Portafolio Personal
+## 🌐 Portafolio Personal
 > Sitio web responsivo y moderno para mostrar mis proyectos y habilidades
 - **Tecnologías:** HTML5, CSS3, Bootstrap 5, JavaScript
 - **Características:** Diseño responsive, navegación suave, optimizado para SEO
 - 🔗 [Ver demo](https://tuportafolio.com) | [Código fuente](#)
 
-### 🛒 E-commerce con Vue.js
-> Tienda en línea con carrito de compras y panel de administración
-- **Tecnologías:** Vue.js, Node.js, Express, MySQL
-- **Características:** Gestión de productos, carrito de compras, pasarela de pago
-- 🔗 [Ver proyecto](#) | [Código fuente](#)
 
 ## 📚 Formación
 
@@ -65,10 +52,10 @@
 
 ## 📫 Contacto
 
-- 📧 Email: tu.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/diegopalma](https://linkedin.com/in/tuusuario)
-- 🐙 GitHub: [@diegopalma](https://github.com/tuusuario)
-- 🌐 Portafolio: [tuportafolio.com](https://tuportafolio.com)
+- 📧 Email: diegop.salas@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/diegopalma](https://www.linkedin.com/in/diego-palma-s/)
+- 🐙 GitHub: [@diegopalma](https://github.com/DiegoPalmaS/)
+- 🌐 Portafolio: [tuportafolio.com](https://diegopalmas.github.io/portafolio-skillnest/)
 
 ---
 
