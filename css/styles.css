@@ -1,0 +1,21 @@
+/* Estilos Base para Responsividad */
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 56px; /* Espacio para el navbar fijo de Bootstrap */
+}
+
+/* Media Query de ejemplo para la responsividad */
+@media (min-width: 768px) {
+    .hero-section h1 {
+        font-size: 3em; /* Tamaño de fuente mayor en tablets y desktops */
+    }
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    padding: 0 !important;
+}
